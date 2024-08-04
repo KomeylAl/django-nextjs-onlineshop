@@ -1,3 +1,5 @@
+![Screenshot (128)](https://github.com/user-attachments/assets/a4b2b0ee-f3bc-43cf-8e9e-2e10efa172fc)
+
 برای run کردن پروژه ابتدا ریپازیتوری را clone کنید
 برای بخش بک اند باید پکیج های زیر رو نصب کنید:
 1- django
