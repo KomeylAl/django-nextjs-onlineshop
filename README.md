@@ -2,9 +2,9 @@
 
 برای run کردن پروژه ابتدا ریپازیتوری را clone کنید
 برای بخش بک اند باید پکیج های زیر رو نصب کنید:
-1- django
-2- djangorestframework
-3- django-corsheaders
+  1- django
+  2- djangorestframework
+  3- django-corsheaders
 
 سپس در پوشه backend یک cmd باز کنین و دستور python manage.py runserver رو بزنین
 سرور بک اند روی آدرس http://127.0.0.1:8000 اجرا میشه
